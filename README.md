@@ -3,4 +3,4 @@
 
 Changes Earth's planet class from T1 to T3, making Earth a naturally habitable planet in the Space Stage.
 
-### For work need a GalaxyReset!
+**A galaxy reset is recommended before using this mod.**
