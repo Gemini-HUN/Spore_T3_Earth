@@ -13,5 +13,6 @@ I recommend [Spore ModAPI Launcher Kit](https://launcherkit.sporecommunity.com/)
 
 ## Compatible with
 * [Spore_hidden_planets](https://github.com/Gemini-HUN/Spore_hidden_planets)
+* Any other planet mod that does not change the Earth
 
 **A galaxy reset is recommended before using this mod.**
